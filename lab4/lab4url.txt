@@ -1,0 +1,3 @@
+repo: https://github.com/pirart/fet-site
+
+site: https://pirart.github.io/fet-site/
