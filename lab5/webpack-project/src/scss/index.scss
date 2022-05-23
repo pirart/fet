@@ -1,0 +1,18 @@
+@import url("./normalize.css");
+@import url("./page-list/page-list.css");
+@import url("./page-list/__item/page-list__item.css");
+@import url("./page-list/__item/page-list__item_inactive.css");
+@import url("./page-header/page-header.css");
+@import url("./footer/footer.css");
+@import url("./rozklad/rozklad.css");
+@import url("./rozklad/__h/rozklad__h.css");
+@import url("./photo/photo.css");
+@import url("./news/news.css");
+@import url("./news/__h/news__h.css");
+
+body {
+    background-image: linear-gradient(180deg, #5CCCCC, #009999);
+    background-repeat: no-repeat;
+    max-width: 55%;
+    margin: auto;
+}
