@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+.slider {
+    width: 1280px;
+    max-width: 1280px;
+    user-select: none;
+}
+
+.slider__list {
+    width: 9999px;
+}
+
+.slider__item {
+    display: inline-block;
+}
+
+.slider__img {
+    pointer-events: none;
+    display: block;
+}
